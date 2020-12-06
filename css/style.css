@@ -76,6 +76,7 @@ img {
 
   background-color: #00a4e5;
   border: none;
+  cursor: pointer;
 }
 .logo {
   width: 102px;
