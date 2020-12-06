@@ -397,6 +397,7 @@ img {
 .footer .link:focus {
   color: var(--accent-color);
 }
+
 .contacts .company {
   max-width: 250px;
   margin-right: 70px;
@@ -467,12 +468,7 @@ img {
 .footer-icon .social-icon {
   width: 13px;
   height: 13px;
-  fill: #ffffff;
-}
-
-.footer-icon .social-icon:hover,
-.footer-icon .social-icon:focus {
-  fill: var(--accent-color);
+  fill: currentColor;
 }
 
 .footer .copyright {
